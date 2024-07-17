@@ -19,4 +19,3 @@ Este programa en C++ fue desarrollado para celebrar los 200 años del nacimiento
    - Las concursantes que califiquen llegan a la etapa final.
    - Se calcula un puntaje final para determinar si están entre las semifinalistas o si merecen la Corona Lovelace 2024.
 
-¡Que el código fuente brille tanto como las concursantes en el escenario! 🌟✨
